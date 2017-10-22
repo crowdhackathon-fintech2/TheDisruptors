@@ -1,0 +1,9 @@
+{
+  "url" : "http://localhost:8080",
+  "path" : "/payMobile",
+  "body" :
+  {
+    "userId" : "dlkmsdfmkg409-0423",
+    "productId" : "4309534095dlkjfgnslkjg"
+  }
+}
